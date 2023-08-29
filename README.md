@@ -11,7 +11,7 @@ Institute of Paraná - Campus Paranavaí.
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=VitorTavaresO&show_icons=true&theme=dark&count_private=true"/>
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresO&layout=compact&langs_count=8&include_all_commits=true&theme=dark&hide=css,vue,html,scss"/>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresO&layout=compact&langs_count=8&include_all_commits=true&theme=dark&hide=css,vue,html,scss,php"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,16 +29,14 @@ Institute of Paraná - Campus Paranavaí.
     <p> Programming Languages </p>
     <img align="center" alt="Python" title="Python" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Dart" title="Dart" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="Java" title="Java" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="PHP" title="PHP" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="C" title="C" height="30" width="40"
+     <img align="center" alt="C" title="C" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C++" title="C++" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Java" title="Java" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Dart" title="Dart" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <br />
     <p> Frameworks </p>
     <img align="center" alt="Django" title="Django" height="30" width="40"
