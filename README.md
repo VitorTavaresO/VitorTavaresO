@@ -75,7 +75,7 @@ Institute of Paraná - Campus Paranavaí.
 
 <h2> Contact </h2>
 <div style"display: inline_block">
-    <a href="mailto:vitortavares.o55@gmail.com"><img
+    <a href="mailto:vtavares.eng@gmail.com"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank"></a>
     <a href="https://www.linkedin.com/in/vitortavareso/" target="_blank"><img
