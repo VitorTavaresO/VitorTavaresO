@@ -8,7 +8,7 @@ Institute of Paraná - Campus Paranavaí.
 
 <div align="center">
     <a href="https://github.com/VitorTavaresO">
-        <img height="250em"
+        <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresO&layout=compact&langs_count=8&theme=dark&hide=css,vue,html,scss,php"/>
 </div>
 
