@@ -41,8 +41,6 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
     <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="VueJS" title="VueJS" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="Flutter" title="Flutter" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40"
