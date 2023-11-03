@@ -3,7 +3,7 @@
 Hello, my name is Vitor Tavares, I'm currently studying for the second year of software engineering at the Federal
 Institute of Paraná - Campus Paranavaí.
 
-<h3> "Stay Awhile and Listen" Cain, Deckard </h3>
+<h3> "The people cry out for strength that is already theirs!" Atreus </h3>
 <br />
 
 <div align="center">
