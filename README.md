@@ -14,6 +14,30 @@ Institute of Paraná - Campus Paranavaí.
 
 <div style="display: inline_block"><br>
     <h2> Technologies and Tools </h2>
+    <p> Programming Languages </p>
+     <img align="center" alt="C" title="C" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C++" title="C++" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="Python" title="Python" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Java" title="Java" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Dart" title="Dart" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <br />
+    <p> Frameworks </p>
+    <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img align="center" alt="Django" title="Django" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Flutter" title="Flutter" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <br />
     <p> Operational Systems </p>
     <img align="center" alt="Windows" title="Windows" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -23,28 +47,7 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
     <img align="center" alt="Android" title="Android" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-    <br />
-    <p> Programming Languages </p>
-    <img align="center" alt="Python" title="Python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="C" title="C" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="C++" title="C++" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Java" title="Java" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Dart" title="Dart" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <br />
-    <p> Frameworks </p>
-    <img align="center" alt="Django" title="Django" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Flutter" title="Flutter" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<br />
     <br />
     <p> Other Technologies </p>
     <img align="center" alt="VSCode" title="VSCode" height="30" width="40"
@@ -65,8 +68,6 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="SQLite" title="SQLite" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-    <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
 
 <h2> Contact </h2>
