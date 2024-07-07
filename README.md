@@ -50,18 +50,12 @@ Institute of Paraná - Campus Paranavaí.
 <br />
     <br />
     <p> Other Technologies </p>
-    <img align="center" alt="VSCode" title="VSCode" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Copilot" title="Copilot" height="30" width="40"
         src="https://api.iconify.design/logos/github-copilot.svg">
     <img align="center" alt="GIT" title="GIT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Jupyter" title="Jupyter" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="HTML5" title="HTML5" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" title="CSS3" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="MySQL" title="MySQL" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40"
