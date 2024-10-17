@@ -31,8 +31,6 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <img align="center" alt="Django" title="Django" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Flutter" title="Flutter" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40"
@@ -45,8 +43,6 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Debian" title="Debian" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-    <img align="center" alt="Android" title="Android" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 <br />
     <br />
     <p> Other Technologies </p>
@@ -54,12 +50,8 @@ Institute of Paraná - Campus Paranavaí.
         src="https://api.iconify.design/logos/github-copilot.svg">
     <img align="center" alt="GIT" title="GIT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Jupyter" title="Jupyter" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="MySQL" title="MySQL" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="SQLite" title="SQLite" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
