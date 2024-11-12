@@ -23,16 +23,12 @@ Institute of Paraná - Campus Paranavaí.
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Java" title="Java" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Dart" title="Dart" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
     <br />
     <p> Frameworks </p>
     <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <img align="center" alt="Django" title="Django" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" alt="Flutter" title="Flutter" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
     <img align="center" alt="SpringBoot" title="SpringBoot" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <br />
