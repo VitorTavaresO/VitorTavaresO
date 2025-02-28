@@ -46,8 +46,6 @@ Institute of Paraná - Campus Paranavaí.
         src="https://api.iconify.design/logos/github-copilot.svg">
     <img align="center" alt="GIT" title="GIT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="MySQL" title="MySQL" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="SQLite" title="SQLite" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
