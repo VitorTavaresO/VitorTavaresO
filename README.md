@@ -24,11 +24,13 @@ Institute of Paraná - Campus Paranavaí.
     <img align="center" alt="Bash" title="Python" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
     <br />
-    <p> Frameworks </p>
+    <p> Technologies </p>
     <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <img align="center" alt="Django" title="Django" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+        <img align="center" alt="Rasp" title="Rasp" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
+    <img align="center" alt="Espressif" title="Espressif" height="30" width="40"
+     src="https://raw.githubusercontent.com/espressif/esp-idf/master/docs/_static/espressif-logo.svg">
     <br />
     <p> Operational Systems </p>
     <img align="center" alt="Windows" title="Windows" height="30" width="40"
@@ -46,11 +48,9 @@ Institute of Paraná - Campus Paranavaí.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="SQLite" title="SQLite" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-     <img align="center" alt="Rasp" title="SQLite" height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
-    <img align="center" alt="Postman" title="SQLite" height="30" width="40"
+    <img align="center" alt="Postman" title="Postman" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-    <img align="center" alt="LaTeX" title="SQLite" height="30" width="40"
+    <img align="center" alt="LaTeX" title="LaTeX" height="30" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
           
           
