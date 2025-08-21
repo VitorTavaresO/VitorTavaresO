@@ -9,7 +9,8 @@ Institute of Paraná - Campus Paranavaí.
 <div align="center">
     <a href="https://github.com/VitorTavaresO">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavaresO&layout=compact&langs_count=8&theme=dark&hide=dart,kvlang,hack,css,javascript,vue,html,scss,php"/>
+              src="https://stats-a36u8npry-vitortavaresos-projects.vercel.app/api/top-langs/?username=VitorTavaresO&layout=compact&langs_count=8&theme=dark&hide=dart,kvlang,hack,css,javascript,vue,html,scss,php"/>
+
 </div>
 
 <div style="display: inline_block"><br>
@@ -66,3 +67,4 @@ Institute of Paraná - Campus Paranavaí.
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 </div>
+
