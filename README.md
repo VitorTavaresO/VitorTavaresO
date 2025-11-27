@@ -1,7 +1,6 @@
 ## Vitor Tavares de Oliveira 🇧🇷
 
-Hello, my name is Vitor Tavares, I'm currently studying for the third year of software engineering at the Federal
-Institute of Paraná - Campus Paranavaí.
+Hello, my name is Vitor Tavares. I'm a Software Engineer, graduated from the Federal Institute of Paraná. Passionate about ***Research and Development***, with a strong interest in ***Embedded Systems, Internet of Things (IoT), Automation, Networks, and Cybersecurity***. Dedicated to creating innovative technological solutions and constantly exploring new challenges in the field.
 
 <h3> "The more I study, the more insatiable do I feel my genius for it to be" Ada Lovelace </h3>
 <br />
@@ -67,6 +66,7 @@ Institute of Paraná - Campus Paranavaí.
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 </div>
+
 
 
 
