@@ -13,26 +13,24 @@
 [![ORCiD](https://img.shields.io/badge/-ORCiD-10B981?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1142-3266)
 [![Lattes](https://img.shields.io/badge/-Lattes_CV-EF4444?style=for-the-badge&logo=read-the-docs&logoColor=white)](http://lattes.cnpq.br/2712354143924108)
 
-
 ### *"The more I study, the more insatiable do I feel my genius for it to be"*
+
 **― Ada Lovelace**
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,20:6366F1,40:3B82F6,60:10B981,80:EAB308,100:EF4444"/>
 
-
 ### <img src="https://cdn.simpleicons.org/rocket/8B5CF6" width="25"/> About Me
 
-Hello! I'm Vitor, a Software Engineer who graduated from the Federal Institute of Paraná. I focus on **Research and Development**, with a strong interest in **Embedded Systems, Internet of Things (IoT), Automation, Networks, and Cybersecurity**.
-
-I am dedicated to creating innovative technological solutions and constantly exploring new challenges in the field.
+**Software Engineer** focused on **Embedded Systems and IoT**, with proven experience in developing commercial automation solutions and published technical research. Expertise in low-level programming, computer architecture, and hardware-software integration
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,20:6366F1,40:3B82F6,60:10B981,80:EAB308,100:EF4444"/>
 
 ### <img src="https://cdn.simpleicons.org/stackblitz/EF4444" width="25"/> Tech Stack
 
 ### <img src="https://cdn.simpleicons.org/c/8B5CF6" alt="C" width="20"/> Programming Languages
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/c/8B5CF6" alt="C" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/cplusplus/7C3AED" alt="C++" width="45" height="45"/>
@@ -41,6 +39,7 @@ I am dedicated to creating innovative technological solutions and constantly exp
 </div>
 
 ### <img src="https://cdn.simpleicons.org/arduino/06B6D4" width="20"/> IoT & Embedded Systems
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/arduino/06B6D4" alt="Arduino" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/raspberrypi/14B8A6" alt="Raspberry Pi" width="45" height="45"/>
@@ -48,6 +47,7 @@ I am dedicated to creating innovative technological solutions and constantly exp
 </div>
 
 ### <img src="https://cdn.simpleicons.org/git/84CC16" width="20"/> Tools & Other Technologies
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/git/84CC16" alt="Git" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/githubcopilot/EAB308" alt="GitHub Copilot" width="45" height="45"/>
@@ -55,6 +55,4 @@ I am dedicated to creating innovative technological solutions and constantly exp
   <img src="https://cdn.simpleicons.org/latex/EF4444" alt="LaTeX" width="45" height="45"/>
 </div>
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,20:6366F1,40:3B82F6,60:10B981,80:EAB308,100:EF4444"/>
-
