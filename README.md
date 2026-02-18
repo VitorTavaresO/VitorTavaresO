@@ -23,7 +23,7 @@
 
 ### <img src="https://cdn.simpleicons.org/rocket/8B5CF6" width="25"/> About Me
 
-**Software Engineer** focused on **Embedded Systems and IoT**, with proven experience in developing commercial automation solutions and published technical research. Expertise in low-level programming, computer architecture, and hardware-software integration
+### **Software Engineer** focused on **Embedded Systems and IoT**, with proven experience in developing commercial automation solutions and published technical research. Expertise in low-level programming, computer architecture, and hardware-software integration
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,20:6366F1,40:3B82F6,60:10B981,80:EAB308,100:EF4444"/>
 
@@ -56,3 +56,4 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8B5CF6,20:6366F1,40:3B82F6,60:10B981,80:EAB308,100:EF4444"/>
+
